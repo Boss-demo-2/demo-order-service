@@ -2,7 +2,7 @@
 
 > **BOSS Demo Microservice — Tier 2 (Important)**
 >
-> Simulates the Order / Inventory Management Service in the BOSS  application ecosystem.
+> Simulates the Order / Inventory Management Service  in the BOSS application ecosystem.
 
 ---
 
