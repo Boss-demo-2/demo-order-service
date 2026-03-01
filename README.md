@@ -32,3 +32,5 @@ This repository is part of the **BOSS Versioning System** demo. It represents a 
 - **Tier**: 2 — Important
 - **Simulates**: Order / Inventory Service
 - **Priority**: Medium — changes affect business features
+
+- feat: order tracking dashboard added (demo)
